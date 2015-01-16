@@ -1,0 +1,2 @@
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\Window1.baml
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\Window1.g.cs
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\App.g.cs
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\OlsaLevelEditor1.0_MarkupCompile.cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\OlsaLevelEditor1.0.g.resources
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\OlsaLevelEditor1._0.Properties.Resources.resources
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\OlsaLevelEditor1.0.csproj.GenerateResource.Cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\Window2.baml
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Release\Window2.g.cs

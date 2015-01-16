@@ -1,0 +1,12 @@
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Window1.baml
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\App.g.cs
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz_MarkupCompile.cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz.g.resources
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz.Properties.Resources.resources
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\bin\Debug\Boltz.exe
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\bin\Debug\Boltz.pdb
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz.exe
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\Boltz\Boltz\obj\Debug\Boltz.pdb

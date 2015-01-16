@@ -1,0 +1,60 @@
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.exe
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.pdb
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.baml
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.g.cs
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\App.g.cs
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0_MarkupCompile.cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.g.resources
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1._0.Properties.Resources.resources
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.csproj.GenerateResource.Cache
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.exe
+C:\Users\Daddy\Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.pdb
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.exe
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.pdb
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.exe
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.pdb
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.baml
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\App.g.cs
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0_MarkupCompile.cache
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.g.resources
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1._0.Properties.Resources.resources
+C:\Documents and Settings\Someone\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.csproj.GenerateResource.Cache
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.exe
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.pdb
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.exe
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.pdb
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\ResolveAssemblyReference.cache
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.baml
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.g.cs
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\App.g.cs
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0_MarkupCompile.cache
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.g.resources
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1._0.Properties.Resources.resources
+H:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.csproj.GenerateResource.Cache
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.exe
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.pdb
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.exe
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.pdb
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\ResolveAssemblyReference.cache
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.baml
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.g.cs
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\App.g.cs
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0_MarkupCompile.cache
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.g.resources
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1._0.Properties.Resources.resources
+G:\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.exe
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.pdb
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.exe
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\bin\Debug\OlsaLevelEditor1.0.pdb
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.baml
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\App.g.cs
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0_MarkupCompile.cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.g.resources
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1._0.Properties.Resources.resources
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\OlsaLevelEditor1.0\OlsaLevelEditor1.0\obj\Debug\OlsaLevelEditor1.0.csproj.GenerateResource.Cache

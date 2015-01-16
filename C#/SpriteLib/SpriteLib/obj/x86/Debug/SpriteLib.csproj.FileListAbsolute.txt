@@ -1,0 +1,12 @@
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\bin\x86\Debug\SpriteLib.dll
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\bin\x86\Debug\SpriteLib.pdb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\SpriteLib.dll
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\SpriteLib.pdb
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\SpriteLib.dll
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\bin\x86\Debug\SpriteLib.dll
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\bin\x86\Debug\SpriteLib.pdb
+C:\Documents and Settings\Clay\My Documents\Visual Studio 2008\Projects\SpriteLib\SpriteLib\obj\x86\Debug\SpriteLib.pdb

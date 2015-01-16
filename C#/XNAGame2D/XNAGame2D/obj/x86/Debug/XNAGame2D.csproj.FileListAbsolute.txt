@@ -1,0 +1,59 @@
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Front).xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\XNAGame2D.exe
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\XNAGame2D.pdb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\obj\x86\Debug\XNAGame2D.exe
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\obj\x86\Debug\XNAGame2D.pdb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Back).xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Left).xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Right).xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\sonic.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\SpriteLib.dll
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\SpriteLib.pdb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Nude).xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00000.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00001.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00002.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00003.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00004.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00005.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00000.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00001.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00002.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00003.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00004.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00005.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\Helmet.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\Woman.xnb
+C:\Users\Clay\Documents\Visual Studio 2008\Projects\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\sphere.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Back).xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Left).xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Right).xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\sonic.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Front).xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Marle (Nude).xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00000.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00001.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00002.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00003.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00004.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Front\IMG00005.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00000.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00001.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00002.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00003.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00004.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Back\IMG00005.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\Helmet.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\Woman.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\Content\Models\sphere.xnb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\XNAGame2D.exe
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\XNAGame2D.pdb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\bin\x86\Debug\SpriteLib.pdb
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\obj\x86\Debug\XNAGame2D.exe
+C:\Documents and Settings\Clay\Desktop\XNAGame2D\XNAGame2D\obj\x86\Debug\XNAGame2D.pdb
